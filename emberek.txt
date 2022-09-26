@@ -66,7 +66,7 @@ Szabó Attila;1987-10-23;Érd
 Róth Zoltán;1960-8-13;Budapest
 Sárosi Zoltán;1984-8-11;Sopron
 Varga Réka;1985-6-1;Érd
-Fekete Gábor;1986-2-29;Budapest
+Fekete Gábor;1986-2-28;Budapest
 Ábrahám Katalin;1990-2-17;Veszprém
 Haragos Bettina;1978-3-9;Szeged
 Németh Krisztián;1967-5-22;Miskolc
@@ -93,7 +93,7 @@ Herczeg Anna;1985-4-19;Érd
 Fehér Nikolett;1973-9-2;Érd
 Debreczeni Krisztián;1995-1-18;Miskolc
 Haragos Nikolett;1962-7-23;Székesfehérvár
-Debreczeni Attila;1983-2-29;Pécs
+Debreczeni Attila;1983-2-28;Pécs
 Sárosi Bettina;1970-11-10;Érd
 Gergely Roland;1993-3-3;Érd
 Mészáros Zoltán;2000-1-26;Érd
